@@ -1,8 +1,17 @@
 # readme-generator
 
-# 09 Node.js Homework: Professional README Generator
+# Table of content
+- [Title](#title)
+- [Task](#task)
+- [User Story](#userstory)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Deliverables](#deliverables)
 
-## Your Task
+
+## Title
+09 Node.js Homework: Professional README Generator
+
+##  Task
 
 When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions&mdash;this last part increases the likelihood that other developers will contribute to the success of the project. 
 
@@ -47,43 +56,23 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-## Getting Started
 
-Here are some guidelines to help you get started:
+### Deliverables
 
-* Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
+* ![A sample README generated using the application must be submitted.](./Develop/asset/display/SampleReadme.png)
 
-* Make sure that your repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies.
+* ![question generated](./Develop/asset/display/readmeGen.png)
 
-* Include a video of the typical user flow through your application. This includes views of the prompts and the responses after their selection.
+### Walkthrough Video and images: 
 
-* Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers or other developers in the future what you built and why, and to show how it works.
+![Readme Demo](./Develop/asset/display/readmeMov.gif "Walkthrough readme video")
 
-## Grading Requirements
-
-This homework is graded based on the following criteria: 
-
-### Deliverables: 20%
-
-* A sample README generated using the application must be submitted.
-
-* Your GitHub repository containing your application code.
-
-### Walkthrough Video: 27%
-
-* A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.
-
-* The walkthrough video must demonstrate how a user would invoke the application from the command line.
-
-* The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
-
-* The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.
-
-### Technical Acceptance Criteria: 40%
+### Technical Acceptance Criteria:
 
 * Satisfies all of the above acceptance criteria plus the following:
 
-	* Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).
+* Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).
+
 
 ### Repository Quality: 13%
 
@@ -97,8 +86,8 @@ This homework is graded based on the following criteria:
 
 * Repository contains a high-quality README with description and a link to walkthrough video.
 ## Deployment
-[Readme link](https://dparmar32.github.io/readme-generator/)
-[Readme Code](https://github.com/dparmar32/readme-generator/)
+[Readme Git Repositiory](https://github.com/dparmar32/readme-generator/)
+
 
 ## Review
 

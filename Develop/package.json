@@ -1,16 +1,23 @@
 {
-  "name": "static-site",
+  "name": "read-me",
   "version": "1.0.0",
-  "description": "",
+  "description": "readme-generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dparmar32/readme-generator.git"
+  },
+  "author": "Drashtee",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dparmar32/readme-generator/issues"
+  },
+  "homepage": "https://github.com/dparmar32/readme-generator#readme",
   "dependencies": {
-    "async": "^3.2.2",
-    "file-system": "^2.2.2",
-    "inquirer": "^6.5.2"
+    "async": "^3.2.3",
+    "inquirer": "^8.2.0"
   }
 }
