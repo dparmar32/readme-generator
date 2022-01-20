@@ -1,4 +1,3 @@
-# readme-generator
 
 # Table of content
 - [Title](#title)
@@ -6,6 +5,10 @@
 - [User Story](#userstory)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Deliverables](#deliverables)
+- [Walkthrough Video](#walkthrough-video)
+- [Technical Acceptance Criteria](#technicalAcceptanceCriteria)
+- [Deployment](#deployment)
+- [Reference](#reference)
 
 
 ## Title
@@ -59,45 +62,29 @@ THEN I am taken to the corresponding section of the README
 
 ### Deliverables
 
-* ![A sample README generated using the application must be submitted.](./Develop/asset/display/SampleReadme.png)
+![A sample README generated using the application must be submitted.](./Develop/asset/display/SampleReadme.png)
 
-* ![question generated](./Develop/asset/display/readmeGen.png)
+ ![question generated](./Develop/asset/display/readmeGen.png)
 
-### Walkthrough Video and images: 
+### Walkthrough Video
 
-![Readme Demo](./Develop/asset/display/readmeMov.gif "Walkthrough readme video")
+![Readme Demo](Develop/asset/display/readmeMov.gif "Walkthrough readme video")
 
-### Technical Acceptance Criteria:
+### Technical Acceptance Criteria
 
 * Satisfies all of the above acceptance criteria plus the following:
 
 * Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).
 
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains a high-quality README with description and a link to walkthrough video.
 ## Deployment
 [Readme Git Repositiory](https://github.com/dparmar32/readme-generator/)
 
 
-## Review
-
-You are required to submit the following for review:
-
-* A walkthrough video demonstrating the functionality of the application.
-
-* A sample README.md file for a project repository generated using your application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
+## Reference
+- [Inquirer](https://www.npmjs.com/package/inquirer)
+- [Node JS](https://nodejs.org/en/docs/)
+- [npmjs](https://www.npmjs.com/)
+- [Medium](https://korzio.medium.com/node-cli-with-commander-and-inquirer-3eacc0086e7c)
 
 ---
 
