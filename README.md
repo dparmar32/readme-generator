@@ -68,9 +68,7 @@ THEN I am taken to the corresponding section of the README
 
 ### Walkthrough Video
 
-![Readme Demo](./Develop/asset/display/readmeFinal.gif)
-<img src="https://drive.google.com/file/d/14jfeZK1jyosylIhazmMmX3Jc9yPQ_CTT/view?usp=sharing>
-![Readme Demo](https://drive.google.com/file/d/14jfeZK1jyosylIhazmMmX3Jc9yPQ_CTT/view?usp=sharing)
+![Demo](./Develop/asset/display/readmeFinal1.gif)
 ### Technical Acceptance Criteria
 
 * Satisfies all of the above acceptance criteria plus the following:
