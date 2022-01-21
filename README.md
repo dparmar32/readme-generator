@@ -61,6 +61,7 @@ THEN I am taken to the corresponding section of the README
 
 
 ### Deliverables
+[Generated Readme link](https://github.com/dparmar32/readme-generator/blob/main/Develop/README.md)
 
 ![A sample README generated using the application must be submitted.](./Develop/asset/display/SampleReadme.png)
 
